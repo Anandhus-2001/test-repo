@@ -2,3 +2,5 @@ git status=> list all untracked files
 git init=> to initialize git
 git add-A=> adding all changes to staging area
 git commit-m=> adding changes to local repo
+git remote add name push
+git push -u name branch
